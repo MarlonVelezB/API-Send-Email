@@ -36,4 +36,4 @@ Este pequeño proyecto marca mi incursión en el desarrollo de un API utilizando
 ¡Muchísimas Gracias!
 
 ## 📚 Tutorial para iniciar un proyecto NodeJS/Express con TS
-Como guía para iniciar el proyecto con TypeScript, me he basado en el siguiente tutorial, el cual recomendaría revisar: Tutorial NodeJS/Express/TS
+Como guía para iniciar el proyecto con TypeScript, me he basado en el siguiente tutorial, el cual recomendaría revisar: [Tutorial NodeJS/Express/TS](https://blog.logrocket.com/how-to-set-up-node-typescript-express/)https://blog.logrocket.com/how-to-set-up-node-typescript-express/
